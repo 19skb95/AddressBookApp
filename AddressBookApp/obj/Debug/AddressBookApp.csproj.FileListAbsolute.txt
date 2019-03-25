@@ -1,0 +1,9 @@
+E:\proj\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe.config
+E:\proj\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.exe
+E:\proj\AddressBookApp\AddressBookApp\bin\Debug\AddressBookApp.pdb
+E:\proj\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csprojResolveAssemblyReference.cache
+E:\proj\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.Form1.resources
+E:\proj\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.Properties.Resources.resources
+E:\proj\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.csproj.GenerateResource.Cache
+E:\proj\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.exe
+E:\proj\AddressBookApp\AddressBookApp\obj\Debug\AddressBookApp.pdb
